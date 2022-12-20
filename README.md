@@ -1,5 +1,5 @@
 # Data Processing Portfolio
-Hello! I'm Natasha and I'm currently pursuing a Bachelor's Degree in Informatics Engineering in Universitas Negeri Surabaya. This repository contains various Data Analysis/Data Science projects by yours truly to try to showcase my abilities in processing data.
+Hello! I'm Natasha and I'm currently pursuing a Bachelor's Degree in Informatics Engineering at Universitas Negeri Surabaya. This repository contains various Data Analysis/Data Science projects by yours truly to try to showcase my abilities in processing data.
 
 ## Table of Contents
 - [Data Analysis](https://github.com/natashairaharko/DataProcessingPortfolio/edit/main/README.md#data-analysis)
